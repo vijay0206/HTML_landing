@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+<TITLE> page2 </TITLE>
+</HEAD>
+	<BODY>
+		<table border>
+			<tr>
+				<td><img src="1.png"/></td>
+				<td><img src="2.png"/></td>
+			</tr>
+
+			<tr>
+				<td colspan="2" ><img src="3.png"/></td>
+			</tr>
+
+			<tr>
+				<td><img src="4.png"/></td>
+				<td><img src="5.png"/> </td>
+			</tr>
+		</table>
+	</BODY>
+</HTML>
